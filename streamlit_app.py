@@ -233,8 +233,4 @@ with tab2:
 
 # --- Footer ---
 st.divider()
-st.markdown("""
-<div style="text-align: center; color: #6c757d;">
-    Developed by Senior Reservoir Engineering Tools Team | Material Balance Equation Model v1.0
-</div>
-""", unsafe_allow_html=True)
+
